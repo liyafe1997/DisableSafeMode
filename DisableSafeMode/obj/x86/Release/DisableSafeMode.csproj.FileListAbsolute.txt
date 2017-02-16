@@ -1,0 +1,17 @@
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\bin\Release\DisableSafeMode.exe
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\bin\Release\DisableSafeMode.pdb
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.ProjectInstaller.resources
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.Service1.resources
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.csproj.GenerateResource.Cache
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.exe
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.pdb
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.csprojResolveAssemblyReference.cache
+C:\Users\liyaf\Desktop\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.exe
+C:\Users\liyaf\Desktop\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.pdb
+C:\Users\liyaf\Desktop\DisableSafeMode\DisableSafeMode\DisableSafeMode\bin\Release\DisableSafeMode.exe.config
+C:\Users\liyaf\Desktop\DisableSafeMode\DisableSafeMode\DisableSafeMode\bin\Release\DisableSafeMode.exe
+C:\Users\liyaf\Desktop\DisableSafeMode\DisableSafeMode\DisableSafeMode\bin\Release\DisableSafeMode.pdb
+C:\Users\liyaf\Desktop\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.csprojResolveAssemblyReference.cache
+C:\Users\liyaf\Desktop\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.ProjectInstaller.resources
+C:\Users\liyaf\Desktop\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.Service1.resources
+C:\Users\liyaf\Desktop\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Release\DisableSafeMode.csproj.GenerateResource.Cache

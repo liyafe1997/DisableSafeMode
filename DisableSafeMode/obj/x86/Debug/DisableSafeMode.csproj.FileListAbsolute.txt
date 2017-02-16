@@ -1,0 +1,8 @@
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\bin\Debug\DisableSafeMode.exe
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\bin\Debug\DisableSafeMode.pdb
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Debug\DisableSafeMode.ProjectInstaller.resources
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Debug\DisableSafeMode.csproj.GenerateResource.Cache
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Debug\DisableSafeMode.exe
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Debug\DisableSafeMode.pdb
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Debug\DisableSafeMode.csprojResolveAssemblyReference.cache
+C:\Users\liyaf\Documents\Visual Studio 2010\Projects\DisableSafeMode\DisableSafeMode\DisableSafeMode\obj\x86\Debug\DisableSafeMode.Service1.resources
